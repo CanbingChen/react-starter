@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.cdecube.com:tyfo/react-starter.git"
+    "url": "git@github.com/CanbingChen/react-starter.git"
   },
   "keywords": [
     "react",
@@ -30,9 +30,9 @@
   "author": "ccb",
   "license": "ISC",
   "bugs": {
-    "url": "http://git.cdecube.com/tyfo/react-starter/issues"
+    "url": "https://github.com/CanbingChen/react-starter.git/issues"
   },
-  "homepage": "http://git.cdecube.com/tyfo/react-starter/blob/master/README.md",
+  "homepage": "https://github.com/CanbingChen/react-starter.git/blob/master/README.md",
   "jest": {
     "globals": {
       "CONFIG_ENV": true

@@ -1,0 +1,12 @@
+node_modules
+/build/
+/tmp/
+/coverage/
+/docs/build/
+/packages/*/lib/
+/test/coverage/
+/test/regressions/site/build/
+/.git
+src/components/**/*.spec.js
+src/container/**/*.spec.js
+/static/
